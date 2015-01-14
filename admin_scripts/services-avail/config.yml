@@ -1,0 +1,9 @@
+# Logger
+    mailsettings: 
+                mailhost: localhost
+                fromaddr: webadmin@example.com
+                toaddrs: [admin@example.com]
+                subject: Alert
+                credentials: None
+                secure: None
+    logfile: ./wsavail.log
